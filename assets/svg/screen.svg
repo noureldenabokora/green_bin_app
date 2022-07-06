@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_131" data-name="Rectangle 131" width="16" height="16" transform="translate(325 195)" fill="#686874" stroke="#686874" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-325 -195)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(325 195.136)">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <path id="Path_41" data-name="Path 41" d="M5.4,1.376A3.209,3.209,0,0,1,7.925.332a3.188,3.188,0,0,1,2.563,1.1" fill="none" stroke="#686874" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.665"/>
+        <path id="Path_42" data-name="Path 42" d="M6.383,2.493a2,2,0,0,1,1.549-.642A1.966,1.966,0,0,1,9.5,2.517" fill="none" stroke="#686874" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.665"/>
+        <rect id="Rectangle_132" data-name="Rectangle 132" width="15.305" height="9.424" rx="0.665" transform="translate(0.332 3.83)" fill="none" stroke="#686874" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.665"/>
+        <rect id="Rectangle_133" data-name="Rectangle 133" width="2.669" height="2.141" transform="translate(6.652 13.254)" fill="none" stroke="#686874" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.665"/>
+        <line id="Line_6" data-name="Line 6" x2="6.649" transform="translate(4.697 15.272)" fill="none" stroke="#686874" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.665"/>
+        <line id="Line_7" data-name="Line 7" x2="15.292" transform="translate(0.376 11.283)" fill="none" stroke="#686874" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.665"/>
+      </g>
+    </g>
+  </g>
+</svg>
